@@ -1,0 +1,9 @@
+public class HelloWorld{
+public static void main(String []args){
+
+   int age = 16;
+   String name = "hawraa merza";
+   String hobby = "arabic calligraphy";
+   System.out.println("hello my name is " + name + " . im " + age + " years old . " + " my favorite hobby is " + hobby );
+     }
+} 
